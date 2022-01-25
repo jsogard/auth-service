@@ -1,3 +1,5 @@
+/* eslint-disable no-undef */
+
 const path = require('path');
 const express = require('express');
 const { ValidationError } = require('express-validation');
